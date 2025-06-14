@@ -27,20 +27,20 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 ## Data Model
 
 <p align="center">
-    <img src='https://github.com/bhaskaranalytics/Hospitality-Revenue-Analysis/tree/main/images' height="400">
+    <img src="https://github.com/bhaskaranalytics/Hospitality-Revenue-Analysis/tree/main/images.jpg" height="400">
 </p>
 
 
 ## Overall Analysis View
 
 <p align="center">
-    <img src='https://github.com/bhaskaranalytics/Hospitality-Revenue-Analysis/tree/main/images' width="600">
+    <img src='https://github.com/bhaskaranalytics/Hospitality-Revenue-Analysis/tree/main/images.jpg' width="600">
 </p>
 
 ## Monthly Analysis View
 
 <p align="center">
-    <img src='https://github.com/bhaskaranalytics/Hospitality-Revenue-Analysis/tree/main/images' width="600">
+    <img src='https://github.com/bhaskaranalytics/Hospitality-Revenue-Analysis/tree/main/images.jpg' width="600">
 </p>
 
 ## Learnt things from this Project 
